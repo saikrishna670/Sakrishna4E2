@@ -1,4 +1,4 @@
-public class Main{
+public class linear_search{
     public static void main(String[] args){
         int[] nums={10,19,2,3,1,8,9};
         int target=9;

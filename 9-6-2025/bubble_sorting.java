@@ -1,4 +1,4 @@
-public class Main{
+public class bubble_sorting{
 	public static void main(String[] args) {
 		int []nums={19,21,3,8,9,10,12};
 		for(int j=0;j<nums.length-1;j++){

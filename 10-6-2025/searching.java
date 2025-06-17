@@ -1,4 +1,4 @@
-public class Main
+public class searching
 {
 	public static void main(String[] args) {
 	    int[] nums={10,1,9,20,12,13,14};

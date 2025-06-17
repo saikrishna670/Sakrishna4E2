@@ -1,4 +1,4 @@
-public class Main
+public class box
 {
 	public static void main(String[] args) {
 	    int n= 5;

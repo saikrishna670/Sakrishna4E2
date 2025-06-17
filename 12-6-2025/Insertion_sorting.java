@@ -1,4 +1,4 @@
-public class Main {
+public class Insertion_sorting{
     public static void main(String[] args) {
      int[]nums={4,6,8,9,20,15,12,1};
      for(int i=1;i<nums.length;i++){

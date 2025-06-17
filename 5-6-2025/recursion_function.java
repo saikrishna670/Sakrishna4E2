@@ -1,4 +1,4 @@
-public class Main{
+public class recursion_function{
     public static void main(String[] args){
         printRange(1,5);
     }

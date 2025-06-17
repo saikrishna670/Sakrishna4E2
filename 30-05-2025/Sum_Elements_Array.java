@@ -1,4 +1,4 @@
-public class SumArray {
+public class Sum_Elements_Array{
     public static void main(String[] args) {
         int[] numbers = {1, 2, 3, 4, 5};
         int sum = calculateSum(numbers);

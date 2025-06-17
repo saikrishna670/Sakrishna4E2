@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.HashSet;
-public class Main {
+public class Graph{
 	public static void main(String[] args) {
 		Graph graph=new Graph(4);
 		graph.addEdge(0,1);

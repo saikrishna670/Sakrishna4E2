@@ -1,5 +1,4 @@
-public class Main
-{
+public class fibonacciseries{
 	public static void main(String[] args) {
 		System.out.println(fib(5));
 	}

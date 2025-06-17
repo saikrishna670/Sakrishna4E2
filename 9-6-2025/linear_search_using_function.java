@@ -1,4 +1,4 @@
-public class App{
+public class linear_search_using_function{
     public static void main(String[] args){
         System.out.println(linearsearch(new int[]{10,19,2,3,1,8,9},19));
         System.out.println(linearsearch(new int[]{10,19,2,3,1,8,9},9));
